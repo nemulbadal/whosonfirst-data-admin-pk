@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.72343,34.93868,76.72343,34.93868",
+    "geom:bbox":"76.72343000000002,34.93868,76.72343000000002,34.93868",
     "geom:latitude":34.93868,
     "geom:longitude":76.72343,
     "gn:admin1_code":"07",
@@ -31,16 +31,17 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85675745,
-        1159339495,
         102191569,
         85632659,
         1108692185,
+        1159339495,
+        85675745,
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1167755
+        "gn:id":1167755,
+        "wd:id":"Q136388653"
     },
     "wof:country":"PK",
     "wof:geomhash":"9475eb89724a9b136ab228286fd70f94",
@@ -63,8 +64,14 @@
         }
     ],
     "wof:id":1309999727,
-    "wof:lastmodified":1566591494,
-    "wof:name":"Prahnu",
+    "wof:lang_x_official":[
+        "urd"
+    ],
+    "wof:lang_x_spoken":[
+        "bft"
+    ],
+    "wof:lastmodified":1759017696,
+    "wof:name":"Frano",
     "wof:parent_id":1108692185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
